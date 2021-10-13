@@ -1,5 +1,7 @@
 # Projeto DSVendas
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Gadamment/projeto-sds3/blob/main/LICENSE)
+
 * Habilidades introduzidas e desenvolvidas:
 
 Criar projetos backend e frontend <br/>
